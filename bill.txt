@@ -1,0 +1,31 @@
+
+
+                          SILVERSPOON RESTAURANT PAYING BILL
+-----------------------------------------------------------------------------------------------------
+												Fri Jul  6 16:38:30 2018
+Referrence ID:                                                 14471
+
+
+
+Customer Name:                                                 Ayanava
+
+
+
+Total cost of meal:                                            3159.0
+
+
+
+All Taxes Included:                                            947.70
+
+
+
+Service Charge:                                                35.45
+____________________________________________________________________________
+Total Cost:                                                    3966.65
+
+
+You are our old customer Mr.Ayanava. You have come here 7 times.
+
+So,you are getting 15% discount!!!!
+
+HAVE A NICE DAY...........THANK YOU FOR COMING
